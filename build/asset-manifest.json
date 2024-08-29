@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.798aef57.css",
-    "main.js": "/static/js/main.e1320ccb.js",
+    "main.css": "/static/css/main.e50a00c5.css",
+    "main.js": "/static/js/main.c516299f.js",
     "static/js/453.eeefa729.chunk.js": "/static/js/453.eeefa729.chunk.js",
     "static/media/trade_2.png": "/static/media/trade_2.360a903df3222fb89a79.png",
     "static/media/gift_ic.webp": "/static/media/gift_ic.a97250c54a9114b19982.webp",
@@ -16,14 +16,19 @@
     "static/media/Bitcoin-SV-logo-white.png": "/static/media/Bitcoin-SV-logo-white.d2a233acf8976b194037.png",
     "static/media/trade_overlay.svg": "/static/media/trade_overlay.2c0e0c74c0b00a2ceb7813038ffd9dbb.svg",
     "static/media/website.png": "/static/media/website.42d3a8dfacb2d71d5732.png",
+    "static/media/mastercard_img.png": "/static/media/mastercard_img.35ef6467604ac90ea10b.png",
     "static/media/gmail_ic.png": "/static/media/gmail_ic.8d55216f1780ecfa4edc.png",
     "static/media/website-icon-11.png": "/static/media/website-icon-11.31d1c250918c40c681d1.png",
+    "static/media/icon_512x512_backup.png": "/static/media/icon_512x512_backup.30a50c285abc5c68e4b7.png",
+    "static/media/creditcard_bg2.png": "/static/media/creditcard_bg2.d17ace7ccfa4628b656c.png",
     "static/media/mobile-trading-mt4.webp": "/static/media/mobile-trading-mt4.ed69b38638141049966f.webp",
+    "static/media/notice_icon.png": "/static/media/notice_icon.5009d94879a5dd9faf15.png",
     "static/media/money-deposit.png": "/static/media/money-deposit.4ecde3e633e6e4ad8429.png",
     "static/media/line.webp": "/static/media/line.1e44149ef4f9263083c5.webp",
     "static/media/bankic.webp": "/static/media/bankic.1a6a4ef57816d64407b6.webp",
     "static/media/phone-home.png": "/static/media/phone-home.097ef67f1a9a19cbff3b.png",
     "static/media/line_logo_icon_147270.webp": "/static/media/line_logo_icon_147270.1a17ba95d330f3bdf403.webp",
+    "static/media/aboutus_icon.png": "/static/media/aboutus_icon.0d8168fe592a162cff0d.png",
     "static/media/th_icon.png": "/static/media/th_icon.d63782024f9ccb4c7f98.png",
     "static/media/gmail.png": "/static/media/gmail.d765005ce9d4caa3d69e.png",
     "static/media/trade_ic.png": "/static/media/trade_ic.06d62547a06a87bac999.png",
@@ -63,12 +68,12 @@
     "static/media/smbc.svg": "/static/media/smbc.642bf6f52e02e0d0001a.svg",
     "static/media/cimb.svg": "/static/media/cimb.fe43a63e4452250e9d65.svg",
     "static/media/db.svg": "/static/media/db.8a5842f91ac43340421d.svg",
-    "main.798aef57.css.map": "/static/css/main.798aef57.css.map",
-    "main.e1320ccb.js.map": "/static/js/main.e1320ccb.js.map",
+    "main.e50a00c5.css.map": "/static/css/main.e50a00c5.css.map",
+    "main.c516299f.js.map": "/static/js/main.c516299f.js.map",
     "453.eeefa729.chunk.js.map": "/static/js/453.eeefa729.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.798aef57.css",
-    "static/js/main.e1320ccb.js"
+    "static/css/main.e50a00c5.css",
+    "static/js/main.c516299f.js"
   ]
 }
