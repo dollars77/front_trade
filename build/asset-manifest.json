@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.25c5046a.css",
-    "main.js": "/static/js/main.adfaa8e5.js",
+    "main.css": "/static/css/main.9f627d4d.css",
+    "main.js": "/static/js/main.124b19b1.js",
     "static/js/453.ba9e2338.chunk.js": "/static/js/453.ba9e2338.chunk.js",
     "static/media/trade_2.png": "/static/media/trade_2.360a903df3222fb89a79.png",
     "static/media/gift_ic.webp": "/static/media/gift_ic.a97250c54a9114b19982.webp",
-    "static/media/trade_3.png": "/static/media/trade_3.04d2f988d7fb99b77bde.png",
     "static/media/trade_bg.png": "/static/media/trade_bg.281242d1ea90c16f2eaf.png",
+    "static/media/trade_3.png": "/static/media/trade_3.687495f7fcee521064e9.png",
     "static/media/login_bg.webp": "/static/media/login_bg.3b18bf4809310cea6e9c.webp",
+    "static/media/icon_512x512_backup.png": "/static/media/icon_512x512_backup.6ecf26a306b72857d364.png",
     "static/media/bg2.jpg": "/static/media/bg2.431e8c33e63f75e4d104.jpg",
     "static/media/Bitcoin-SV-logo.png": "/static/media/Bitcoin-SV-logo.ccf971443a7940a557de.png",
     "static/media/en_icon.png": "/static/media/en_icon.4885b0afa96467c2fa47.png",
     "static/media/gsb.svg": "/static/media/gsb.ae249f1090340b6dc78a.svg",
-    "static/media/icon_512x512_backup.png": "/static/media/icon_512x512_backup.3b87cd56ca6216a239f1.png",
+    "static/media/icon_sec2_1.webp": "/static/media/icon_sec2_1.064af81695987b0532d6.webp",
     "static/media/download-trading-partner.png": "/static/media/download-trading-partner.c1f752d0bddc47291d9d.png",
     "static/media/Bitcoin-SV-logo-white.png": "/static/media/Bitcoin-SV-logo-white.d2a233acf8976b194037.png",
     "static/media/stop_line.png": "/static/media/stop_line.9057ad9c6b43fb05cf03.png",
@@ -24,10 +25,12 @@
     "static/media/creditcard_bg2.png": "/static/media/creditcard_bg2.d17ace7ccfa4628b656c.png",
     "static/media/mobile-trading-mt4.webp": "/static/media/mobile-trading-mt4.ed69b38638141049966f.webp",
     "static/media/notice_icon.png": "/static/media/notice_icon.5009d94879a5dd9faf15.png",
+    "static/media/icon_sec2_2.webp": "/static/media/icon_sec2_2.d02cb74a389a2c0874e0.webp",
     "static/media/money-deposit.png": "/static/media/money-deposit.4ecde3e633e6e4ad8429.png",
     "static/media/line.webp": "/static/media/line.1e44149ef4f9263083c5.webp",
     "static/media/bankic.webp": "/static/media/bankic.1a6a4ef57816d64407b6.webp",
     "static/media/forexdate.png": "/static/media/forexdate.fef8a0b47bc3ddeecf64.png",
+    "static/media/icon_sec2_3.webp": "/static/media/icon_sec2_3.5172b7dd60dc44f5b413.webp",
     "static/media/phone-home.png": "/static/media/phone-home.097ef67f1a9a19cbff3b.png",
     "static/media/line_logo_icon_147270.webp": "/static/media/line_logo_icon_147270.1a17ba95d330f3bdf403.webp",
     "static/media/aboutus_icon.png": "/static/media/aboutus_icon.0d8168fe592a162cff0d.png",
@@ -70,12 +73,12 @@
     "static/media/smbc.svg": "/static/media/smbc.642bf6f52e02e0d0001a.svg",
     "static/media/cimb.svg": "/static/media/cimb.fe43a63e4452250e9d65.svg",
     "static/media/db.svg": "/static/media/db.8a5842f91ac43340421d.svg",
-    "main.25c5046a.css.map": "/static/css/main.25c5046a.css.map",
-    "main.adfaa8e5.js.map": "/static/js/main.adfaa8e5.js.map",
+    "main.9f627d4d.css.map": "/static/css/main.9f627d4d.css.map",
+    "main.124b19b1.js.map": "/static/js/main.124b19b1.js.map",
     "453.ba9e2338.chunk.js.map": "/static/js/453.ba9e2338.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25c5046a.css",
-    "static/js/main.adfaa8e5.js"
+    "static/css/main.9f627d4d.css",
+    "static/js/main.124b19b1.js"
   ]
 }
