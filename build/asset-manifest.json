@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.84de4942.css",
-    "main.js": "/static/js/main.6daab22c.js",
+    "main.js": "/static/js/main.92e1510e.js",
     "static/js/453.ba9e2338.chunk.js": "/static/js/453.ba9e2338.chunk.js",
     "static/media/trade_2.png": "/static/media/trade_2.360a903df3222fb89a79.png",
     "static/media/gift_ic.webp": "/static/media/gift_ic.a97250c54a9114b19982.webp",
@@ -14,7 +14,7 @@
     "static/media/icon_sec2_1.webp": "/static/media/icon_sec2_1.064af81695987b0532d6.webp",
     "static/media/download-trading-partner.png": "/static/media/download-trading-partner.c1f752d0bddc47291d9d.png",
     "static/media/Bitcoin-SV-logo-white.png": "/static/media/Bitcoin-SV-logo-white.d2a233acf8976b194037.png",
-    "static/media/icon_512x512_backup.png": "/static/media/icon_512x512_backup.72c6220c62206152f5fd.png",
+    "static/media/icon_512x512_backup.png": "/static/media/icon_512x512_backup.04ad880e011b165d8f31.png",
     "static/media/stop_line.png": "/static/media/stop_line.9057ad9c6b43fb05cf03.png",
     "static/media/trade_overlay.svg": "/static/media/trade_overlay.2c0e0c74c0b00a2ceb7813038ffd9dbb.svg",
     "static/media/website.png": "/static/media/website.42d3a8dfacb2d71d5732.png",
@@ -77,11 +77,11 @@
     "static/media/cimb.svg": "/static/media/cimb.fe43a63e4452250e9d65.svg",
     "static/media/db.svg": "/static/media/db.8a5842f91ac43340421d.svg",
     "main.84de4942.css.map": "/static/css/main.84de4942.css.map",
-    "main.6daab22c.js.map": "/static/js/main.6daab22c.js.map",
+    "main.92e1510e.js.map": "/static/js/main.92e1510e.js.map",
     "453.ba9e2338.chunk.js.map": "/static/js/453.ba9e2338.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84de4942.css",
-    "static/js/main.6daab22c.js"
+    "static/js/main.92e1510e.js"
   ]
 }
